@@ -1,0 +1,93 @@
+# Core Framework
+streamlit
+python-dotenv
+
+# LlamaIndex and Components
+llama-index-core
+llama-index-embeddings-nvidia
+llama-index-llms-nvidia
+llama-index-vector-stores-milvus
+llama-index-vector-stores-chroma
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-llms-openai
+llama-index-llms-anthropic
+llama-index-llms-gemini
+google-generativeai
+llama-index-llms-together
+
+# Document Processing
+pypdf
+python-docx
+python-magic
+pdfminer.six
+chardet
+
+# Machine Learning & Data Processing
+numpy
+pandas
+scikit-learn
+scipy
+
+# Vector Database
+chromadb
+pymilvus
+
+# Deep Learning & Embeddings
+torch
+transformers
+sentence-transformers
+accelerate
+
+# Visualization
+plotly
+matplotlib
+networkx
+seaborn
+
+# UI Components
+streamlit-chat
+streamlit-extras
+streamlit-option-menu
+
+# Async Support
+aiohttp
+aiosignal
+async-timeout
+asyncio
+aiosqlite  # Added for async SQLite support
+aiodns     # Added for async DNS resolution
+aiofiles   # Added for async file operations
+
+# Utilities
+tqdm
+requests
+urllib3
+certifi
+PyYAML
+python-dateutil
+pytz
+six
+typing-extensions
+
+# Caching & Storage
+redis
+diskcache
+
+# Development & Testing
+black
+isort
+mypy
+pytest
+pytest-asyncio
+pytest-cov
+flake8
+
+# Logging & Monitoring
+prometheus-client
+
+# Optional Dependencies
+ujson
+orjson
+protobuf
+grpcio
